@@ -4,3 +4,17 @@ token:
   token: "0JcoqCAYpTfbxC90BRoh4vW4NeSMg3xj"
 # 子频道ID定义
 
+# 天气城市查询定义
+city:
+  北京:
+    beijing
+  上海:
+    shanghai
+  成都:
+    chengdu
+  广州:
+    guangzhou
+  深圳:
+    shenzhen
+  重庆:
+    chongqing
